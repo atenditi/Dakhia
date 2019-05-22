@@ -19,5 +19,5 @@ If dbSeek(xFilial("SA3")+RETCODUSR()) .AND. !RETCODUSR()$GETMV("Dk_USRVPRV")
 Endif
 
 //DBCloseArea()
-
+//Teste Johnny Fernandes
 Return
